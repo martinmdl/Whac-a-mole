@@ -9,11 +9,11 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
 
-- Agustín Santucho ([GitHub](https://github.com/santuchoagus) - LinkedIn)
+- Agustín Santucho ([GitHub](https://github.com/santuchoagus) - [LinkedIn](https://www.linkedin.com/in/agustinsantucho/))
 - Martín De Lojo ([GitHub](https://www.github.com/martinmdl) - [LinkedIn](https://www.linkedin.com/in/martinmdl/))
 - Cristian Villafañez ([GitHub](https://github.com/KZvilla) - [LinkedIn](https://www.linkedin.com/in/crisvilla93/))
 - Valentino Bortolussi ([GitHub](https://github.com/Valentino-afk) - LinkedIn)
-- Nancy Vargas (GitHub - LinkedIn)
+- Nancy Vargas (GitHub - [LinkedIn](https://www.linkedin.com/in/nancy-vargas-2579727b/)) 
 
 ## 💾 Download
 
