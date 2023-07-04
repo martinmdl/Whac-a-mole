@@ -17,10 +17,7 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 💾 Download
 
-- [*Click here*](https://drive.google.com/file/d/1LuKEnUGgVwC07CcB907NVAGmoH_11puW/view?usp=sharing) to access the directory
-- Download the *rar* file
-- Extract the content in a folder
-- Run *main.exe*
+work in progress
 
 ## 🕹️ Demo (https://www.futurelink.com)
 
