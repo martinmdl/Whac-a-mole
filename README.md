@@ -17,7 +17,9 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 💾 Download
 
-work in progress
+- [Click here](https://www.wollok.org/instalacion/) to install Wollok
+- Import this project on the Wollok IDE
+- Run *juego.wpgm*
 
 ## 🕹️ Demo (https://www.futurelink.com)
 
