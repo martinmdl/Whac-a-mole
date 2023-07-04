@@ -24,10 +24,10 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 🕹️ Demo (https://www.futurelink.com)
 
-- **A** - derecha
-- **D** - izquierda
-- **Space** - avanzar
-- **Backspace** - retroceder
-- **A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z** - eliminar topo
+- **A** - right
+- **D** - left
+- **Space** - select
+- **Backspace** - back
+- **A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z** - hit mole
 
 <img src="https://i.postimg.cc/26xvhrgk/guia.png" width="800" />
