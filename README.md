@@ -1,4 +1,4 @@
-# Whac A Mole
+# Whac a Mole
 
 ## 📃 Description
 
@@ -21,7 +21,7 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 - Import this project on the Wollok IDE
 - Run *juego.wpgm*
 
-## 🕹️ Demo (https://www.futurelink.com)
+## 🕹️ Demo
 
 - **A** - right
 - **D** - left
@@ -29,4 +29,5 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 - **Backspace** - back
 - **A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z** - hit mole
 
-<img src="https://i.postimg.cc/26xvhrgk/guia.png" width="800" />
+https://github.com/martinmdl/whac-a-mole/assets/78437578/423da0d3-c6e8-40c3-b643-2bf46016dad3
+
