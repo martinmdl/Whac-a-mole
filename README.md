@@ -4,8 +4,8 @@
 
 Me and my team launched this Graphic Interface Wollok Game.
 This proyect standout with a qualification 33% higher than media.
-We were the only team that built and share a library which allowed to animate Wollonk objects.
-We also designed original graphics, gave 100% unit testing coverage.
+We were the only team that built and share a [library](https://github.com/santuchoagus/wollok-lib) which allowed to animate Wollok objects.
+We also designed original graphics.
 
 This app was developed as a second year group final project in UNSAM (Universidad Nacional De San Martín).
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
